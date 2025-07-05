@@ -3,8 +3,10 @@
 ## 📌 Description
 
 A Library Management System web application built using the Django framework. This platform enables users to log in, view available books, issue or return them, and manage library records. The application leverages Django’s built-in admin panel for efficient book and user record management.
-**
-**📝 Project Overview**
+
+
+📝 Project Overview
+
 This project was developed as part of an internship to strengthen backend development and debugging skills. It also provided hands-on experience with Django's core features, especially:
 
 🔐 User authentication and session management
