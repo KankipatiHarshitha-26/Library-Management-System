@@ -2,32 +2,36 @@
 
 ## 📌 Description
 
-This project is a **Library Management System** web application built using the Django framework. It allows users to log in, view available books, issue and return them, and manage library records. Django’s built-in admin panel is used to add and manage books efficiently.
+A Library Management System web application built using the Django framework. This platform enables users to log in, view available books, issue or return them, and manage library records. The application leverages Django’s built-in admin panel for efficient book and user record management.
 
-This project helped deepen my understanding of:
-- Django web development
-- Authentication systems (Login/Logout)
-- Book issuing and returning logic
-- Managing the Django development server and resolving common issues
+📝 Project Overview
+This project was developed as part of an internship to strengthen backend development and debugging skills. It also provided hands-on experience with Django's core features, especially:
 
-It was developed as part of an internship, enhancing my backend development and debugging skills.
+🔐 User authentication and session management
 
----
+🔁 Book issue and return workflow
 
-## 🚀 Features
+⚙️ Admin control and data manipulation
 
-- 👤 User Authentication (Login / Logout)
-- 📖 View available books
-- 📥 Issue and return books
-- 🛠️ Admin panel for adding and managing books
-- 🧾 Credential and transaction handling
+🐛 Troubleshooting and server management
 
----
+🚀 Features
+👤 User Authentication – Secure login/logout functionality
+
+📚 Book Catalog – View all available books in the library
+
+📥 Issue & Return Books – Borrow and return books with tracking
+
+🛠️ Admin Panel – Use Django admin to add, edit, and delete book records
+
+🧾 Transaction Logging – Basic credential and book issuance handling
+
+
 
 ## 🛠️ Tech Stack
+| Layer    | Technology       |
+| -------- | ---------------- |
+| Frontend | HTML, CSS        |
+| Backend  | Python, Django   |
+| Database | SQLite (default) |
 
-- **Frontend**: HTML, CSS  
-- **Backend**: Python, Django  
-- **Database**: SQLite (Django default)
-
----
